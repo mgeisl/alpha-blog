@@ -1,5 +1,11 @@
 == README
 
+This is the repository for my practice rails blog app. I'll be using this as a placeholder for
+1) Random ruby tests
+2) Random rails tests
+3) General rails garbage
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
